@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/icon.png" alt="SEVO Logo" width="20%">
+<img src="assets/icon.ico" alt="logo" width="20%">
 
 # SEVO
 
